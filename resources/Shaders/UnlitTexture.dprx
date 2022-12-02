@@ -1,0 +1,24 @@
+{
+    "fragmentAttribs": {
+        "v_texcoord0": {
+            "type": "float2"
+        }
+    },
+    "fragmentShader": "UnlitTexture/Fragment.sc",
+    "includes": [],
+    "toolkitVersion": "1.0",
+    "uniformOrder": [
+        "s_texColor"
+    ],
+    "uniforms": {
+        "s_texColor": {
+            "editable": true,
+            "nameKey": "uniform.texture",
+            "requireColorData": true,
+            "requireMipmaps": false,
+            "requireNonColorData": false,
+            "type": "texture"
+        }
+    },
+    "vertexShader": "UnlitTexture/Vertex.sc"
+}

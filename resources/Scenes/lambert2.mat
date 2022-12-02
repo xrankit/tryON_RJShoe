@@ -1,0 +1,11 @@
+{
+    "flags": {
+        "blendMode": "normal",
+        "cullMode": "off",
+        "enableDepthTest": true,
+        "writeAlpha": true,
+        "writeColor": true,
+        "writeDepth": true
+    },
+    "uniformValues": {}
+}

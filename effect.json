@@ -1,0 +1,317 @@
+{
+    "animationEnabled": true,
+    "children": [
+        {
+            "animationEnabled": true,
+            "children": [
+                {
+                    "animationEnabled": true,
+                    "components": [
+                        {
+                            "blendShapeWeightsExpanded": false,
+                            "bonesExpanded": false,
+                            "enabled": true,
+                            "material": "~/Materials/Occluder.mat",
+                            "mesh": "~/Meshes/FootOccluder.armesh",
+                            "meshDriver": "none",
+                            "open": true,
+                            "type": "meshRenderer"
+                        }
+                    ],
+                    "depth": 0,
+                    "dynamicUv": "disabled",
+                    "editorAnimationsOpen": false,
+                    "editorOpen": false,
+                    "editorPropertyOpen": true,
+                    "enabled": true,
+                    "localEulerAngles": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "localPosition": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "localScale": [
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "name": "FootOccluder.armesh",
+                    "viewId": 2
+                },
+                {
+                    "animationEnabled": true,
+                    "children": [
+                        {
+                            "animationEnabled": true,
+                            "components": [
+                                {
+                                    "blendShapeWeightsExpanded": false,
+                                    "bonesExpanded": false,
+                                    "enabled": true,
+                                    "material": "~/Materials/Shoe.mat",
+                                    "mesh": "~/Meshes/shoe_decimated_Group46049.armesh",
+                                    "meshDriver": "none",
+                                    "open": true,
+                                    "type": "meshRenderer"
+                                }
+                            ],
+                            "depth": 0,
+                            "dynamicUv": "disabled",
+                            "editorAnimationsOpen": false,
+                            "editorOpen": false,
+                            "editorPropertyOpen": true,
+                            "enabled": true,
+                            "localPosition": [
+                                0.0,
+                                -0.08248333632946014,
+                                0.06845280528068542
+                            ],
+                            "localRotation": [
+                                -3.725290742551124e-09,
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "localScale": [
+                                1.0,
+                                0.9999998807907104,
+                                0.9999998807907104
+                            ],
+                            "name": "shoe_decimated:Group46049_2",
+                            "viewId": 2
+                        }
+                    ],
+                    "depth": 0,
+                    "dynamicUv": "disabled",
+                    "editorAnimationsOpen": false,
+                    "editorOpen": true,
+                    "editorPropertyOpen": true,
+                    "enabled": true,
+                    "localPosition": [
+                        0.0,
+                        -0.34958842396736145,
+                        0.6093578338623047
+                    ],
+                    "localRotation": [
+                        -0.7071068286895752,
+                        0.0,
+                        0.0,
+                        0.7071067094802856
+                    ],
+                    "localScale": [
+                        9.0,
+                        8.999999046325684,
+                        8.999999046325684
+                    ],
+                    "name": "1999_shoe2.fbx_2",
+                    "sceneBase": "~/Scenes/1999_shoe2.fbx",
+                    "viewId": 2
+                }
+            ],
+            "components": [
+                {
+                    "enabled": true,
+                    "left": false,
+                    "open": true,
+                    "type": "footPosition"
+                }
+            ],
+            "depth": 0,
+            "dynamicUv": "disabled",
+            "editorAnimationsOpen": false,
+            "editorOpen": true,
+            "editorPropertyOpen": true,
+            "enabled": true,
+            "localEulerAngles": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "localPosition": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "localScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "name": "RightFoot",
+            "viewId": 2
+        },
+        {
+            "animationEnabled": true,
+            "children": [
+                {
+                    "animationEnabled": true,
+                    "components": [
+                        {
+                            "blendShapeWeightsExpanded": false,
+                            "bonesExpanded": false,
+                            "enabled": true,
+                            "material": "~/Materials/Occluder.mat",
+                            "mesh": "~/Meshes/FootOccluder.armesh",
+                            "meshDriver": "none",
+                            "open": true,
+                            "type": "meshRenderer"
+                        }
+                    ],
+                    "depth": 0,
+                    "dynamicUv": "disabled",
+                    "editorAnimationsOpen": false,
+                    "editorOpen": false,
+                    "editorPropertyOpen": true,
+                    "enabled": true,
+                    "localEulerAngles": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "localPosition": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "localScale": [
+                        -1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "name": "FootOccluder.armesh_2",
+                    "viewId": 2
+                },
+                {
+                    "animationEnabled": true,
+                    "children": [
+                        {
+                            "animationEnabled": true,
+                            "components": [
+                                {
+                                    "blendShapeWeightsExpanded": false,
+                                    "bonesExpanded": false,
+                                    "enabled": true,
+                                    "material": "~/Materials/Shoe.mat",
+                                    "mesh": "~/Meshes/shoe_decimated_Group46049.armesh",
+                                    "meshDriver": "none",
+                                    "open": true,
+                                    "type": "meshRenderer"
+                                }
+                            ],
+                            "depth": 0,
+                            "dynamicUv": "disabled",
+                            "editorAnimationsOpen": false,
+                            "editorOpen": false,
+                            "editorPropertyOpen": true,
+                            "enabled": true,
+                            "localPosition": [
+                                0.0,
+                                -0.08248333632946014,
+                                0.06845280528068542
+                            ],
+                            "localRotation": [
+                                -3.725290742551124e-09,
+                                0.0,
+                                0.0,
+                                1.0
+                            ],
+                            "localScale": [
+                                1.0,
+                                0.9999998807907104,
+                                0.9999998807907104
+                            ],
+                            "name": "shoe_decimated:Group46049",
+                            "viewId": 2
+                        }
+                    ],
+                    "depth": 0,
+                    "dynamicUv": "disabled",
+                    "editorAnimationsOpen": false,
+                    "editorOpen": true,
+                    "editorPropertyOpen": true,
+                    "enabled": true,
+                    "localPosition": [
+                        0.0,
+                        -0.349588006734848,
+                        0.2532298266887665
+                    ],
+                    "localRotation": [
+                        0.7071066498756409,
+                        0.0,
+                        0.0,
+                        0.70710688829422
+                    ],
+                    "localScale": [
+                        -9.0,
+                        -8.999998092651367,
+                        -8.999998092651367
+                    ],
+                    "name": "1999_shoe2.fbx",
+                    "sceneBase": "~/Scenes/1999_shoe2.fbx",
+                    "viewId": 2
+                }
+            ],
+            "components": [
+                {
+                    "enabled": true,
+                    "left": true,
+                    "open": true,
+                    "type": "footPosition"
+                }
+            ],
+            "depth": 0,
+            "dynamicUv": "disabled",
+            "editorAnimationsOpen": false,
+            "editorOpen": true,
+            "editorPropertyOpen": true,
+            "enabled": true,
+            "localPosition": [
+                13.103053092956543,
+                0.0,
+                0.0
+            ],
+            "localRotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "localScale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "name": "LeftFoot",
+            "viewId": 2
+        }
+    ],
+    "depth": 0,
+    "dynamicUv": "disabled",
+    "editorAnimationsOpen": false,
+    "editorOpen": true,
+    "editorPropertyOpen": true,
+    "enabled": true,
+    "hiddenViewIds": [],
+    "localEulerAngles": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "localPosition": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "localScale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "name": "Root",
+    "space": "camera",
+    "viewId": 2
+}

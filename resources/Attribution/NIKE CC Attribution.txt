@@ -1,0 +1,5 @@
+The model and texture files are provided by NIKE under the Creative Commons Attribution License.
+
+https://creativecommons.org/licenses/by/4.0/
+
+The models were scaled and positioned to work with DeepAR foot tracking

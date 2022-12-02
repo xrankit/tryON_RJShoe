@@ -1,0 +1,24 @@
+{
+    "calculateTangentSpace": false,
+    "convertScale": false,
+    "dataType": "model",
+    "generateSmoothNormals": true,
+    "limitBoneWeights": true,
+    "materialModelRefs": {
+        "blinn2": [
+            "../Materials/Shoe.mat"
+        ],
+        "lambert2": [
+            "lambert2.mat"
+        ]
+    },
+    "meshModelRefs": {
+        "foot_mask:Mesh": [
+            "foot_mask_Mesh.armesh"
+        ],
+        "shoe_decimated:Group46049": [
+            "../Meshes/shoe_decimated_Group46049.armesh"
+        ]
+    },
+    "type": "scene"
+}

@@ -1,0 +1,24 @@
+{
+    "fragmentAttribs": {},
+    "fragmentShader": "UnlitColor/Fragment.sc",
+    "includes": [],
+    "toolkitVersion": "1.0",
+    "uniformOrder": [
+        "u_color"
+    ],
+    "uniforms": {
+        "u_color": {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "dataType": "color",
+            "editable": true,
+            "nameKey": "uniform.color",
+            "type": "vector"
+        }
+    },
+    "vertexShader": "UnlitColor/Vertex.sc"
+}

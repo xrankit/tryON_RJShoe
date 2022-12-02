@@ -1,0 +1,17 @@
+{
+    "flags": {
+        "blendMode": "normal",
+        "cullMode": "off",
+        "enableDepthTest": true,
+        "writeAlpha": true,
+        "writeColor": true,
+        "writeDepth": true
+    },
+    "shader": "../Shaders/UnlitTexture.dprx",
+    "uniformValues": {
+        "s_texColor": {
+            "texture": "../Textures/finaldiffuse.png",
+            "type": "texture"
+        }
+    }
+}

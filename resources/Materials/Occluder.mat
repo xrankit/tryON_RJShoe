@@ -1,0 +1,23 @@
+{
+    "flags": {
+        "blendMode": "normal",
+        "cullMode": "off",
+        "enableDepthTest": true,
+        "writeAlpha": false,
+        "writeColor": false,
+        "writeDepth": true
+    },
+    "shader": "../Shaders/UnlitColor.dprx",
+    "uniformValues": {
+        "u_color": {
+            "color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "dataType": "color",
+            "type": "vector"
+        }
+    }
+}
